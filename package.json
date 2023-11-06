@@ -10,7 +10,7 @@
     "run:ios": "expo run:ios"
   },
   "dependencies": {
-    "@new-mareland/crystal-mirror": "^1.1.0-17",
+    "@new-mareland/crystal-mirror": "^1.1.0-18",
     "@new-mareland/crystal-mirror-react-native-storage": "^1.1.0-17",
     "expo": "~49.0.15",
     "expo-status-bar": "~1.6.0",
